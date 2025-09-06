@@ -1,0 +1,5 @@
+{
+  "name": "Brainrot Focus Timer",
+  "description": "A web application inspired by 'Brainrot: Screen Time Control' to help you manage focus and reduce distractions. Start a focus session to improve your 'brain health' and get motivational tips powered by AI.",
+  "requestFramePermissions": []
+}
